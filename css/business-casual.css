@@ -40,18 +40,18 @@ hr {
 .address-bar {
     display: none;
 }
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
 #cssmenu {
     position: fixed;
     left: 0;
     top: 0;
     width: 100%;
 }
-.navbar-brand {
-    text-transform: uppercase;
-    font-weight: 900;
-    letter-spacing: 2px;
-}
-
 .navbar-nav {
     text-transform: uppercase;
     font-weight: 400;
