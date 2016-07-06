@@ -40,7 +40,12 @@ hr {
 .address-bar {
     display: none;
 }
-
+#cssmenu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
 .navbar-brand {
     text-transform: uppercase;
     font-weight: 900;
