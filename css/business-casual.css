@@ -39,6 +39,12 @@ hr {
 .brand,
 .address-bar {
     display: none;
+    #cssmenu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
 }
 
 .navbar-brand {
@@ -46,12 +52,7 @@ hr {
     font-weight: 900;
     letter-spacing: 2px;
 }
-#cssmenu {
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-}
+
 .navbar-nav {
     text-transform: uppercase;
     font-weight: 400;
