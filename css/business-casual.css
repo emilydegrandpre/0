@@ -200,3 +200,34 @@ footer p {
         clear: both;
     }
 }
+
+/*phone size*/
+@media (max-width: 780px) {
+    .my-name-container
+{
+    width: 100%;
+}
+
+.button-container {
+    width: auto;
+    top: 5px;
+    padding-right: 10px;
+    padding-bottom:
+    10px;
+}
+
+.back-button {
+    font-size: 16px;
+    padding-left: 4px;
+    padding-right: 4px;
+    margin-left: 4px;
+    top: 0;
+    
+}
+
+.wrapper {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+}
