@@ -201,3 +201,8 @@ footer p {
     }
 }
 
+@media (max-width: 979px) {
+.x-navbar-fixed-top, .x-navbar-fixed-left, .x-navbar-fixed-right {
+position: fixed;
+}
+}
